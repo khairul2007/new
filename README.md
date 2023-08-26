@@ -1,3 +1,3 @@
-my first reposjetory watching apna college tutorial
+my first repository watching apna college tutorial
 <br>
 author: MD. khairul islam
